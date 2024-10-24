@@ -4,7 +4,7 @@
 
 - Как со мной связаться:
    - __Telegram__: https://t.me/Reshavol
-   - __Mail__: andrew-prokudenkov@ro.ru
+   - __Email__: andrew-prokudenkov@ro.ru
 
 
 ---
